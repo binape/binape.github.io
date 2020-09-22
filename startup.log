@@ -1,0 +1,12 @@
+nohup: ignoring input
+Configuration file: /home/binape/myblog/_config.yml
+            Source: /home/binape/myblog
+       Destination: /home/binape/myblog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.411 seconds.
+ Auto-regeneration: enabled for '/home/binape/myblog'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+[2020-09-22 11:09:36] ERROR `/favicon.ico' not found.

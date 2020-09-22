@@ -1,0 +1,7 @@
+nohup: ignoring input
+Configuration file: /home/binape/myblog/_config.yml
+            Source: /home/binape/myblog
+       Destination: /home/binape/myblog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
